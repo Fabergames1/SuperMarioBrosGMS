@@ -1,0 +1,2050 @@
+Converting GML script: ${project_dir}\scripts\scr_mario_walk\scr_mario_walk.gml
+Converted description /// @description scr_mario_walk()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_stand\scr_mario_stand.gml
+Converted description /// @description scr_mario_stand()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_jump\scr_mario_jump.gml
+Converted description /// @description scr_mario_jump()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_skid\scr_mario_skid.gml
+Converted description /// @description scr_mario_skid()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_climb\scr_mario_climb.gml
+Converted description /// @description scr_mario_climb()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_swim\scr_mario_swim.gml
+Converted description /// @description scr_mario_swim()
+
+Converting GML script: ${project_dir}\scripts\scr_mario_pose\scr_mario_pose.gml
+Converted description /// @description scr_mario_pose()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_walk\scr_luigi_walk.gml
+Converted description /// @description scr_luigi_walk()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_stand\scr_luigi_stand.gml
+Converted description /// @description scr_luigi_stand()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_jump\scr_luigi_jump.gml
+Converted description /// @description scr_luigi_jump()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_skid\scr_luigi_skid.gml
+Converted description /// @description scr_luigi_skid()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_climb\scr_luigi_climb.gml
+Converted description /// @description scr_luigi_climb()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_swim\scr_luigi_swim.gml
+Converted description /// @description scr_luigi_swim()
+
+Converting GML script: ${project_dir}\scripts\scr_luigi_pose\scr_luigi_pose.gml
+Converted description /// @description scr_luigi_pose()
+
+Converting GML script: ${project_dir}\scripts\scr_player_create\scr_player_create.gml
+Converted description /// @description scr_player_create()
+
+Converting GML script: ${project_dir}\scripts\scr_player_retrieve\scr_player_retrieve.gml
+Converted description /// @description scr_player_retrieve(x,y
+
+Converting GML script: ${project_dir}\scripts\scr_freeze\scr_freeze.gml
+Converted description /// @description scr_freeze()
+
+Converting GML script: ${project_dir}\scripts\scr_score_add\scr_score_add.gml
+Converted description /// @description scr_score_add(amount);/// @param amount
+
+Converting GML script: ${project_dir}\scripts\scr_coins_add\scr_coins_add.gml
+Converted description /// @description scr_coins_add(amount);/// @param amount
+
+Converting GML script: ${project_dir}\scripts\pal_swap_draw_palette\pal_swap_draw_palette.gml
+Converted description /// @description pal_swap_draw_palette(palette_sprite,pal_index,x,y
+
+Converting GML script: ${project_dir}\scripts\pal_swap_enable_override\pal_swap_enable_override.gml
+Converted description /// @description pal_swap_enable_override(pal_sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_color_count\pal_swap_get_color_count.gml
+Converted description /// @description pal_swap_get_color_count(palette_sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_pal_color\pal_swap_get_pal_color.gml
+Converted description /// @description pal_swap_get_pal_color(palette sprite,pal index, color index
+
+Converting GML script: ${project_dir}\scripts\pal_swap_get_pal_count\pal_swap_get_pal_count.gml
+Converted description /// @description pal_swap_get_pal_count(palette sprite
+
+Converting GML script: ${project_dir}\scripts\pal_swap_index_palette\pal_swap_index_palette.gml
+Converted description /// @description pal_swap_index_palette(palette sprite index
+
+Converting GML script: ${project_dir}\scripts\pal_swap_init_system\pal_swap_init_system.gml
+Converted description /// @description pal_swap_init_system(shader,enable indexing <optional>
+Converted string - line 18: 'texel_size' -> "texel_size"
+Converted string - line 19: 'palette_UVs' -> "palette_UVs"
+Converted string - line 20: 'palette_index' -> "palette_index"
+Converted string - line 21: 'palette_texture' -> "palette_texture"
+
+Converting GML script: ${project_dir}\scripts\pal_swap_reset\pal_swap_reset.gml
+Converted description /// @description pal_swap_reset()
+
+Converting GML script: ${project_dir}\scripts\pal_swap_set\pal_swap_set.gml
+Converted description /// @description pal_swap_set(palette_sprite_index,palette_index,palette_is_surface
+
+Converting GML script: ${project_dir}\scripts\animated_tile_add\animated_tile_add.gml
+Converted description /// @description animated_tile_add(background,speed,frame1,frame2,frame3,frame4,etc...);/// @param background
+/// @param speed
+/// @param frame1
+/// @param frame2
+/// @param frame3
+/// @param frame4
+/// @param etc...
+
+Converting GML script: ${project_dir}\scripts\animated_tile_cleanup\animated_tile_cleanup.gml
+Converted description /// @description animated_tile_cleanup()
+
+Converting GML script: ${project_dir}\scripts\animated_tile_disable_all\animated_tile_disable_all.gml
+Converted description /// @description animated_tile_disable_all(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_enable_all\animated_tile_enable_all.gml
+Converted description /// @description animated_tile_enable_all(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_animation_speed\animated_tile_get_animation_speed.gml
+Converted description /// @description animated_tile_get_animation_speed(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_background\animated_tile_get_background.gml
+Converted description /// @description animated_tile_get_background(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_current_background\animated_tile_get_current_background.gml
+Converted description /// @description animated_tile_get_background(index
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_current_frame\animated_tile_get_current_frame.gml
+Converted description /// @description animated_tile_get_current_frame(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_frame_count\animated_tile_get_frame_count.gml
+Converted description /// @description animated_tile_get_frame_count(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_get_next_frame\animated_tile_get_next_frame.gml
+Converted description /// @description animated_tile_get_next_frame(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_init\animated_tile_init.gml
+Converted description /// @description animated_tile_init(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_is_playing\animated_tile_is_playing.gml
+Converted description /// @description animated_tile_is_playing(
+
+Converting GML script: ${project_dir}\scripts\animated_tile_update\animated_tile_update.gml
+Converted description /// @description animated_tile_update(
+
+Converting GML script: ${project_dir}\scripts\init_pixel\init_pixel.gml
+Converted description /// @description init_pixel(0...1);/// @param 0...1
+
+Converting GML script: ${project_dir}\scripts\init_globals\init_globals.gml
+Converted description /// @description init_globals()
+
+Converting GML script: ${project_dir}\scripts\init_globals_mus\init_globals_mus.gml
+Converted description /// @description init_globals_mus()
+
+Converting GML script: ${project_dir}\scripts\string_add_zeros\string_add_zeros.gml
+Converted description /// @description string_add_zeros(number,digits
+
+Converting GML script: ${project_dir}\scripts\constant_get_sprite\constant_get_sprite.gml
+Converted description /// @description constant_get_sprite(variable
+
+Converting GML script: ${project_dir}\scripts\sprite_get_constant\sprite_get_constant.gml
+Converted description /// @description sprite_get_constant(sprite
+
+Converting GML script: ${project_dir}\scripts\sprite_make_object\sprite_make_object.gml
+Converted description /// @description sprite_make_object(x,y,sprite
+
+Converting GML script: ${project_dir}\scripts\draw_background_tiled_horizontal_ext\draw_background_tiled_horizontal_ext.gml
+Converted builtin - line 31: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 31: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description draw_background_tiled_horizontal_ext(back,x,y,xscale,yscale,angle,color,alpha);/// @param back
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param angle
+/// @param color
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\audio_loop_sound\audio_loop_sound.gml
+Converted builtin - line 18: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 18: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description audio_loop_sound(sound,sample_begin,sample_end,sample_rate,priority
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Create_0.gml
+Converted description /// @description SMBEngine Persistent Objec
+Converted string - line 44: '!' -> "!"
+Converted string - line 45: '!' -> "!"
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Alarm_4.gml
+Converted description /// @description Set up the screen to be displaye
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Alarm_3.gml
+Converted description /// @description Deactivate everythin
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Alarm_2.gml
+Converted description /// @description Stop fading to blac
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Alarm_1.gml
+Converted description /// @description Delay applying setting
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Alarm_0.gml
+Converted description /// @description Center the windo
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Step_0.gml
+Converted builtin - line 16: view_wview[0] = global.gw -> __view_set( e__VW.WView, 0, global.gw )
+Converted builtin - line 19: view_hview[0] = global.gh -> __view_set( e__VW.HView, 0, global.gh )
+Converted builtin - line 22: view_hborder[0] = global.gw/2 -> __view_set( e__VW.HBorder, 0, global.gw/2 )
+Converted builtin - line 25: view_vborder[0] = global.gh/2 -> __view_set( e__VW.VBorder, 0, global.gh/2 )
+Converted builtin - line 7: view_visible[0] = true -> __view_set( e__VW.Visible, 0, true )
+Converted builtin - line 10: view_wport[0] = global.gw -> __view_set( e__VW.WPort, 0, global.gw )
+Converted builtin - line 13: view_hport[0] = global.gh -> __view_set( e__VW.HPort, 0, global.gh )
+Converted description /// @description Set up room parameter
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Keyboard_18.gml
+Converted description /// @description Handle all of the hot key
+Converted string - line 8: 'R' -> "R"
+Converted string - line 21: 'W' -> "W"
+Converted string - line 87: 'A' -> "A"
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_12.gml
+Converted builtin - line 5: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted builtin - line 14: view_wport[view_current] -> __view_get( e__VW.WPort, view_current )
+Converted builtin - line 6: view_wport[view_current] = global.gw*_size -> __view_set( e__VW.WPort, view_current, global.gw*_size )
+Converted builtin - line 10: view_wport[view_current] = global.gw*(filter+1) -> __view_set( e__VW.WPort, view_current, global.gw*(filter+1) )
+Converted builtin - line 14: view_hport[view_current] -> __view_get( e__VW.HPort, view_current )
+Converted builtin - line 7: view_hport[view_current] = global.gh*_size -> __view_set( e__VW.HPort, view_current, global.gh*_size )
+Converted builtin - line 11: view_hport[view_current] = global.gh*(filter+1) -> __view_set( e__VW.HPort, view_current, global.gh*(filter+1) )
+Converted description /// @description HOHO
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_11.gml
+Converted description /// @description Fade the screen to blac
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_10.gml
+Converted description /// @description Set up the screen to be displaye
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_5.gml
+Converted description /// @description Prepare to fade to blac
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_4.gml
+Converted description /// @description Fade the screen to black, unless you just opened up the gam
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_3.gml
+Converted description /// @description Save Fullscreen + Window size + VSync Setting
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Other_2.gml
+Converted description /// @description Load Fullscreen + Window size + VSync Setting
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Draw_64.gml
+Converted description /// @description Deals with the application surface, window size
+
+Converting GML script: ${project_dir}\objects\obj_persistent\Draw_0.gml
+Converted description /// @description BITCH PENI
+
+Converting GML script: ${project_dir}\objects\obj_persistent\KeyPress_27.gml
+Converted description /// @description Close the gam
+
+Converting GML script: ${project_dir}\objects\obj_mazemanager\Create_0.gml
+Converted description /// @description Castle Maze Manage
+
+Converting GML script: ${project_dir}\objects\obj_mazemanager\Collision_d6fe4181-9a18-4fa1-9409-3fbdbb7c0f5f.gml
+Converted builtin - line 57: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 63: view_xview[view_current] = 0 -> __view_set( e__VW.XView, view_current, 0 )
+Converted description /// @description If the maze is correc
+
+Converting GML script: ${project_dir}\objects\obj_wrongway\Create_0.gml
+Converted description /// @description Castle Maze - Wrong Wa
+
+Converting GML script: ${project_dir}\objects\obj_wrongway\Collision_7c80b4b0-2b41-4028-b3bc-b548904298c2.gml
+Converted description /// @description Mark as checke
+
+Converting GML script: ${project_dir}\objects\obj_correctway\Create_0.gml
+Converted description /// @description Castle Maze - Correct Wa
+
+Converting GML script: ${project_dir}\objects\obj_correctway\Step_0.gml
+Converted description /// @description Castle maze logi
+
+Converting GML script: ${project_dir}\objects\obj_correctway\Collision_69af21b4-77c0-4866-9650-b22a9d17265e.gml
+Converted description /// @description Mark as checke
+
+Converting GML script: ${project_dir}\objects\obj_rainmaker\Step_0.gml
+Converted builtin - line 3: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Generate rain drop
+
+Converting GML script: ${project_dir}\objects\obj_windmaker\Create_0.gml
+Converted description /// @description Win
+
+Converting GML script: ${project_dir}\objects\obj_windmaker\Alarm_0.gml
+Converted builtin - line 5: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted description /// @description Create leaf effec
+
+Converting GML script: ${project_dir}\objects\obj_windmaker\Step_0.gml
+Converted description /// @description Handle win
+
+Converting GML script: ${project_dir}\objects\obj_water\Create_0.gml
+Converted description /// @description Underwate
+
+Converting GML script: ${project_dir}\objects\obj_water\Step_0.gml
+Converted description /// @description Water logi
+
+Converting GML script: ${project_dir}\objects\obj_water\Draw_0.gml
+Converted builtin - line 7: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted description /// @description Draw wate
+
+Converting GML script: ${project_dir}\objects\obj_warpzone\Create_0.gml
+Converted description /// @description You are warping to a new world, cheater
+
+Converting GML script: ${project_dir}\objects\obj_warpzone\Collision_764cea43-38bc-4691-be01-aa51d2546bad.gml
+Converted description /// @description Remove enemies and show destination world
+
+Converting GML script: ${project_dir}\objects\obj_toad\Create_0.gml
+Converted description /// @description A toad, that mushroom retainer that we all hate >:
+
+Converting GML script: ${project_dir}\objects\obj_toad\Alarm_3.gml
+Converted description /// @description Make Toad jum
+
+Converting GML script: ${project_dir}\objects\obj_toad\Alarm_2.gml
+Converted description /// @description Save the game and go to the next are
+
+Converting GML script: ${project_dir}\objects\obj_toad\Alarm_1.gml
+Converted description /// @description Take points off the time, and add to the scor
+
+Converting GML script: ${project_dir}\objects\obj_toad\Alarm_0.gml
+Converted description /// @description Display 'Thank you mario!'
+
+Converting GML script: ${project_dir}\objects\obj_toad\Step_2.gml
+Converted description /// @description Animate toa
+
+Converting GML script: ${project_dir}\objects\obj_toad\Draw_0.gml
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 26: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 26: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Draw Toad and 'Thank you, Mario' text
+
+Converting GML script: ${project_dir}\objects\obj_flagpole\Create_0.gml
+Converted description /// @description A flag pole, end the level with this
+
+Converting GML script: ${project_dir}\objects\obj_flagpole\Collision_7ed1bff3-5078-490b-8914-7837be1d7d93.gml
+Converted description /// @description Complete the leve
+
+Converting GML script: ${project_dir}\objects\obj_flagpole\Other_10.gml
+Converted description /// @description Create the appropiate point object based on player's heigh
+
+Converting GML script: ${project_dir}\objects\obj_pitwarp\Create_0.gml
+Converted description /// @description Warps the player to a different roo
+
+Converting GML script: ${project_dir}\objects\obj_pitwarp\Step_0.gml
+Converted description /// @description Warp the player to another destinatio
+
+Converting GML script: ${project_dir}\objects\obj_pitwarp\Draw_0.gml
+Converted description /// @description Draw player face
+
+Converting GML script: ${project_dir}\objects\obj_bganimator\Create_0.gml
+Converted description /// @description A background animato
+
+Converting GML script: ${project_dir}\objects\obj_bganimator\Alarm_0.gml
+Converted builtin - line 4: background_index[bg_index] = bg_frame[numb] -> __background_set( e__BG.Index, bg_index, bg_frame[numb] )
+Converted description /// @description Animate the backgroun
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint\Create_0.gml
+Converted description /// @description Checkpoin
+
+Converting GML script: ${project_dir}\objects\obj_checkpoint\Collision_92a41425-0a96-4e61-8781-da410edbf7ad.gml
+Converted description /// @description Save position if the player die
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Create_0.gml
+Converted builtin - line 22: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted description /// @description Level Control objec
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_5.gml
+Converted description /// @description Disable barrie
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_4.gml
+Converted description /// @description Kill the playe
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_3.gml
+Converted description /// @description Warn that the timer is running ou
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_2.gml
+Converted description /// @description Decrement tim
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_1.gml
+Converted description /// @description Stop musi
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Alarm_0.gml
+Converted description /// @description Loop given them
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Step_2.gml
+Converted builtin - line 87: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 127: view_xview[view_current] = min(max(0,x-view_wview[view_current]/2), room_width-view_wview[view_current]) -> __view_set( e__VW.XView, view_current, min(max(0,x-view_wview[view_current]/2), room_width-view_wview[view_current]) )
+Converted builtin - line 87: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 87: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 87: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted builtin - line 76: view_hspeed[0] = 10 -> __view_set( e__VW.HSpeed, 0, 10 )
+Converted builtin - line 79: view_hspeed[0] = -1 -> __view_set( e__VW.HSpeed, 0, -1 )
+Converted description /// @description Handle position and instance deactivatio
+Converted builtin - line 127: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 127: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Other_12.gml
+Converted description /// @description Set the targe
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Other_11.gml
+Converted description /// @description Destroy player object
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Other_10.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Prevent the player from going outside the vie
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Other_5.gml
+Converted description /// @description Reset skin and stop musi
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Other_4.gml
+Converted builtin - line 94: view_xview -> __view_get( e__VW.XView, 0 )
+Converted description /// @description Initialize level parameter
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol\Draw_0.gml
+Converted builtin - line 13: background_index[i] -> __background_get( e__BG.Index, i )
+Converted builtin - line 14: background_index[i] -> __background_get( e__BG.Index, i )
+Converted builtin - line 14: background_x[i] -> __background_get( e__BG.X, i )
+Converted builtin - line 14: background_hspeed[i] -> __background_get( e__BG.HSpeed, i )
+Converted builtin - line 14: background_blend[i] -> __background_get( e__BG.Blend, i )
+Converted builtin - line 14: background_alpha[i] -> __background_get( e__BG.Alpha, i )
+Converted builtin - line 5: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Draw parallax background
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol_tiles\Create_0.gml
+Converted description /// @description Tile Animator Objec
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol_tiles\Destroy_0.gml
+Converted description /// @description Clean all animated tile
+
+Converting GML script: ${project_dir}\objects\obj_levelcontrol_tiles\Step_0.gml
+Converted description /// @description Update Tile
+
+Converting GML script: ${project_dir}\objects\obj_clearnpcs\Create_0.gml
+Converted description /// @description Destroy overlapping enemies when changing room
+
+Converting GML script: ${project_dir}\objects\obj_clearnpcs\Other_10.gml
+Converted description /// @description Remove enemies at checkpoints or warp
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description The initial position for the playe
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_0.gml
+Converted description /// @description Make the player appea
+
+Converting GML script: ${project_dir}\objects\obj_player_alt\Create_0.gml
+Converted description /// @description Use this on the cutscene
+
+Converting GML script: ${project_dir}\objects\obj_player_alt\Alarm_0.gml
+Converted description /// @description Make visibl
+
+Converting GML script: ${project_dir}\objects\obj_player_alt\Step_0.gml
+Converted description /// @description Handle animatio
+
+Converting GML script: ${project_dir}\objects\obj_player_alt\Collision_e19ff1e8-3d52-48b5-aa44-20a52f18e359.gml
+Converted description /// @description Enter the pip
+
+Converting GML script: ${project_dir}\objects\obj_player_alt\Draw_0.gml
+Converted description /// @description Draw the playe
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Create_0.gml
+Converted description /// @description The player when it's warping through a pip
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Destroy_0.gml
+Converted description /// @description Disable pixel fad
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Alarm_2.gml
+Converted description /// @description Allow movemen
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Alarm_1.gml
+Converted description /// @description Cycle between palette
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Alarm_0.gml
+Converted description /// @description Make the player able to exit the pipe
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Step_0.gml
+Converted description /// @description Player pipe logi
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Collision_e00f6d6f-daf0-46e4-ae2a-0bad79c586ba.gml
+Converted description /// @description Go right
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Collision_bfb1eef4-591e-4027-96f4-0a1f8a74480b.gml
+Converted description /// @description Go left
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Collision_dbac7f91-759e-4b10-ab1c-80228fcc7b28.gml
+Converted description /// @description Go down
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Collision_612399cf-1d1c-427c-9348-104c0f7a962d.gml
+Converted description /// @description Go up
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Collision_ad2733d2-e3df-4de8-81d2-16d28766cfe7.gml
+Converted description /// @description Warp to the given destination roo
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Other_11.gml
+Converted description /// @description Update boundary and facing directio
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Other_10.gml
+Converted description /// @description Create playe
+
+Converting GML script: ${project_dir}\objects\obj_player_warp\Draw_0.gml
+Converted description /// @description Draw the playe
+
+Converting GML script: ${project_dir}\objects\obj_player_climb\Create_0.gml
+Converted description /// @description The player makes it's appearance through a vine
+
+Converting GML script: ${project_dir}\objects\obj_player_climb\Alarm_0.gml
+Converted description /// @description Make visible and create beanstal
+
+Converting GML script: ${project_dir}\objects\obj_player_climb\Step_0.gml
+Converted description /// @description Player climb logi
+
+Converting GML script: ${project_dir}\objects\obj_player_climb\Draw_0.gml
+Converted description /// @description Draw playe
+
+Converting GML script: ${project_dir}\objects\obj_qblock\Create_0.gml
+Converted description /// @description Question mark bloc
+
+Converting GML script: ${project_dir}\objects\obj_qblock\Other_11.gml
+Converted description /// @description Create a powerup or a beanstal
+
+Converting GML script: ${project_dir}\objects\obj_qblock\Other_10.gml
+Converted description /// @description Create a coi
+
+Converting GML script: ${project_dir}\objects\obj_qblock_coins\Create_0.gml
+Converted description /// @description Multi-coin Question mark bloc
+
+Converting GML script: ${project_dir}\objects\obj_qblock_coins\Alarm_0.gml
+Converted description /// @description End time
+
+Converting GML script: ${project_dir}\objects\obj_qblock_coins\Step_0.gml
+Converted description /// @description Reset stat
+
+Converting GML script: ${project_dir}\objects\obj_qblock_coins\Other_10.gml
+Converted description /// @description Create coin and activate time
+
+Converting GML script: ${project_dir}\objects\obj_qblock_hidden\Create_0.gml
+Converted description /// @description Hidden question mark bloc
+
+Converting GML script: ${project_dir}\objects\obj_qblock_hidden\Destroy_0.gml
+Converted description /// @description Add to data storag
+
+Converting GML script: ${project_dir}\objects\obj_qblock_hidden\Step_0.gml
+Converted description /// @description Make it visibl
+
+Converting GML script: ${project_dir}\objects\obj_emptyblock\Draw_0.gml
+Converted description /// @description Draw the bloc
+
+Converting GML script: ${project_dir}\objects\obj_brick\Step_0.gml
+Converted description /// @description Update block movemen
+
+Converting GML script: ${project_dir}\objects\obj_brick\Other_11.gml
+Converted description /// @description Create shard
+
+Converting GML script: ${project_dir}\objects\obj_brick\Other_10.gml
+Converted description /// @description Break it if bi
+
+Converting GML script: ${project_dir}\objects\obj_maze_enemy\Create_0.gml
+Converted description /// @description Castle Maze enem
+
+Converting GML script: ${project_dir}\objects\obj_maze_enemy\Alarm_0.gml
+Converted description /// @description Reset enem
+
+Converting GML script: ${project_dir}\objects\obj_maze_enemy\Other_4.gml
+Converted description /// @description Generate the given enemy on myOB
+
+Converting GML script: ${project_dir}\objects\obj_generator_cheep\Create_0.gml
+Converted description /// @description Underwater cheep-cheep generato
+
+Converting GML script: ${project_dir}\objects\obj_generator_cheep\Alarm_0.gml
+Converted builtin - line 25: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 25: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 25: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 27: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Generate cheep cheep
+
+Converting GML script: ${project_dir}\objects\obj_generator_cheep_flying\Create_0.gml
+Converted description /// @description Flying cheep-cheep generato
+
+Converting GML script: ${project_dir}\objects\obj_generator_cheep_flying\Alarm_0.gml
+Converted builtin - line 24: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 24: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description Generate cheep cheep
+
+Converting GML script: ${project_dir}\objects\obj_generator_bullet\Create_0.gml
+Converted description /// @description Bullet Bill generato
+
+Converting GML script: ${project_dir}\objects\obj_generator_bullet\Alarm_0.gml
+Converted builtin - line 27: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 27: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Generate cheep cheep
+
+Converting GML script: ${project_dir}\objects\obj_generator_flame\Create_0.gml
+Converted description /// @description Bullet Bill generato
+
+Converting GML script: ${project_dir}\objects\obj_generator_flame\Alarm_0.gml
+Converted builtin - line 27: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 27: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Generate cheep cheep
+
+Converting GML script: ${project_dir}\objects\obj_axe\Create_0.gml
+Converted description /// @description An axe, is it feng-shui having one next to a chain
+
+Converting GML script: ${project_dir}\objects\obj_axe\Collision_0a30c01e-5204-46ac-97dc-97f0385aece7.gml
+Converted description /// @description Make the bridge collapse if Bowser exist
+
+Converting GML script: ${project_dir}\objects\obj_axe\Draw_0.gml
+Converted description /// @description Draw axe and chai
+
+Converting GML script: ${project_dir}\objects\obj_bridge\Create_0.gml
+Converted description /// @description Castle Bridg
+
+Converting GML script: ${project_dir}\objects\obj_bridge\Alarm_0.gml
+Converted description /// @description Destroy nearby bridg
+
+Converting GML script: ${project_dir}\objects\obj_bridge\Collision_231c5a8e-1162-4405-97c5-399581204fe6.gml
+Converted description /// @description Change the musi
+
+Converting GML script: ${project_dir}\objects\obj_bridge\Other_7.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Create_0.gml
+Converted description /// @description The "all-mighty" King Koop
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Destroy_0.gml
+Converted description /// @description Destroy fire generato
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_10.gml
+Converted description /// @description Move towards the playe
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_5.gml
+Converted description /// @description Create daze effec
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_4.gml
+Converted description /// @description Throw a given amount of hammer
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_3.gml
+Converted description /// @description Stop breathing fir
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_2.gml
+Converted description /// @description Breathe fir
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_1.gml
+Converted description /// @description Make bowser breathe fire if looking at the lef
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Alarm_0.gml
+Converted description /// @description Make bowser jump if he is looking to the lef
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Step_0.gml
+Converted description /// @description Bowser logi
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Collision_5ba0edeb-00dc-44cb-831e-948ccee5fab0.gml
+Converted description /// @description Damage bowse
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Collision_c470daf0-848b-4a4c-8130-43dc2a37f390.gml
+Converted description /// @description Change the musi
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Other_10.gml
+Converted description /// @description Custom bowser kill even
+
+Converting GML script: ${project_dir}\objects\obj_bowser\Draw_0.gml
+Converted description /// @description Draw bowse
+
+Converting GML script: ${project_dir}\objects\obj_createkoopa_hard\Other_4.gml
+Converted description /// @description Create a koopa on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createparakoopa_hard\Other_4.gml
+Converted description /// @description Create a parakoopa on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createflyingparakoopa_hard\Other_4.gml
+Converted description /// @description Create a flying parakoopa on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createredkoopa_hard\Other_4.gml
+Converted description /// @description Create a red koopa on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createblooper_hard\Other_4.gml
+Converted description /// @description Create a blooper on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createfirebar_hard\Create_0.gml
+Converted description /// @description Firebar (Use only for hard mode placement
+
+Converting GML script: ${project_dir}\objects\obj_createfirebar_hard\Other_4.gml
+Converted description /// @description Create a firebar on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createfastfirebar_hard\Other_4.gml
+Converted description /// @description Create a firebar on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_createlavabubble_hard\Other_4.gml
+Converted description /// @description Create a lavabubble on hard mod
+
+Converting GML script: ${project_dir}\objects\obj_goomba\Create_0.gml
+Converted description /// @description Goomb
+
+Converting GML script: ${project_dir}\objects\obj_goomba\Other_11.gml
+Converted description /// @description Turn into a pancak
+
+Converting GML script: ${project_dir}\objects\obj_goomba\Other_4.gml
+Converted description /// @description Turn into a buzzy beetle if hard mode has been chose
+
+Converting GML script: ${project_dir}\objects\obj_koopa\Create_0.gml
+Converted description /// @description Koop
+
+Converting GML script: ${project_dir}\objects\obj_koopa\Step_0.gml
+Converted description /// @description Koopa logi
+
+Converting GML script: ${project_dir}\objects\obj_koopa\Other_16.gml
+Converted description /// @description Default block bump scrip
+
+Converting GML script: ${project_dir}\objects\obj_koopa\Other_11.gml
+Converted description /// @description Turn into a shel
+
+Converting GML script: ${project_dir}\objects\obj_koopa\Other_10.gml
+Converted description /// @description Koopa kill even
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa\Create_0.gml
+Converted description /// @description Koop
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa\Step_0.gml
+Converted description /// @description Parakoopa logi
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa\Other_11.gml
+Converted description /// @description Turn into a regular koop
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_fly\Create_0.gml
+Converted description /// @description Flying Parakoop
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_fly\Alarm_10.gml
+Converted description /// @description Move towards the playe
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_fly\Step_0.gml
+Converted description /// @description Flying green parakoopa logi
+
+Converting GML script: ${project_dir}\objects\obj_koopa_red\Create_0.gml
+Converted description /// @description Red Koop
+
+Converting GML script: ${project_dir}\objects\obj_koopa_red\Step_0.gml
+Converted description /// @description Red Koopa logi
+
+Converting GML script: ${project_dir}\objects\obj_koopa_red\Other_16.gml
+Converted description /// @description Default block bump scrip
+
+Converting GML script: ${project_dir}\objects\obj_koopa_red\Other_11.gml
+Converted description /// @description Turn into a shel
+
+Converting GML script: ${project_dir}\objects\obj_koopa_red\Other_10.gml
+Converted description /// @description Koopa kill even
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_red\Create_0.gml
+Converted description /// @description Flying Red Parakoop
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_red\Alarm_10.gml
+Converted description /// @description Move towards the playe
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_red\Step_0.gml
+Converted description /// @description Flying red parakoopa logi
+
+Converting GML script: ${project_dir}\objects\obj_parakoopa_red\Other_11.gml
+Converted description /// @description Turn into a regular koop
+
+Converting GML script: ${project_dir}\objects\obj_lakitu\Create_0.gml
+Converted description /// @description Lakitu Generato
+
+Converting GML script: ${project_dir}\objects\obj_lakitu\Alarm_1.gml
+Converted builtin - line 16: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 16: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description Generate a new lakit
+
+Converting GML script: ${project_dir}\objects\obj_lakitu\Alarm_0.gml
+Converted builtin - line 16: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 16: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description Create a lakit
+
+Converting GML script: ${project_dir}\objects\obj_lakitu_end\Create_0.gml
+Converted description /// @description Makes lakitu go awa
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Create_0.gml
+Converted description /// @description Hammer Bro
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_10.gml
+Converted description /// @description Move towards the playe
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_6.gml
+Converted description /// @description Give chas
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_5.gml
+Converted description /// @description Disallow jump through solid
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_4.gml
+Converted description /// @description Allow jump through solid
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_3.gml
+Converted description /// @description Throw a hamme
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_2.gml
+Converted description /// @description Throw up a hamme
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_1.gml
+Converted description /// @description Jump upwards / downward
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Alarm_0.gml
+Converted description /// @description Reverse horizontal spee
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Step_0.gml
+Converted description /// @description Hammer bro logi
+
+Converting GML script: ${project_dir}\objects\obj_hammerbro\Other_13.gml
+Converted description /// @description Default wall collisio
+
+Converting GML script: ${project_dir}\objects\obj_buzzybeetle\Create_0.gml
+Converted description /// @description Buzzy Beetl
+
+Converting GML script: ${project_dir}\objects\obj_buzzybeetle\Other_16.gml
+Converted description /// @description Default enemy dead scrip
+
+Converting GML script: ${project_dir}\objects\obj_buzzybeetle\Other_11.gml
+Converted description /// @description Turn into a shel
+
+Converting GML script: ${project_dir}\objects\obj_buzzybeetle\Other_10.gml
+Converted description /// @description Buzzy Beetle kill even
+
+Converting GML script: ${project_dir}\objects\obj_spiny\Create_0.gml
+Converted description /// @description Spin
+
+Converting GML script: ${project_dir}\objects\obj_spiny\Step_0.gml
+Converted description /// @description Spiny logi
+
+Converting GML script: ${project_dir}\objects\obj_spiny\Collision_3ad2f80c-3220-413c-b8d3-1a2ff9c2c6ef.gml
+Converted description /// @description Bumped by a bloc
+
+Converting GML script: ${project_dir}\objects\obj_spiny\Collision_605f1d21-b7ea-4e18-a39a-986ee266d711.gml
+Converted description /// @description Bumped by a bloc
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Create_0.gml
+Converted description /// @description Piranha Plan
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Alarm_3.gml
+Converted description /// @description Stop it inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Alarm_2.gml
+Converted description /// @description Go inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Alarm_1.gml
+Converted description /// @description Stop outside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Alarm_0.gml
+Converted description /// @description Come out from the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Step_0.gml
+Converted description /// @description Piranha Plant logi
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Other_10.gml
+Converted description /// @description Just destro
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Other_4.gml
+Converted description /// @description Turn into a red piranha plant if hard mode is selecte
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant\Draw_0.gml
+Converted description /// @description Draw Piranha Plan
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Create_0.gml
+Converted description /// @description Red Piranha Plan
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Alarm_3.gml
+Converted description /// @description Stop it inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Alarm_2.gml
+Converted description /// @description Go inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Alarm_1.gml
+Converted description /// @description Stop outside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Alarm_0.gml
+Converted description /// @description Come out from the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red\Other_4.gml
+Converted description /// @description DO NOT REMOV
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Alarm_3.gml
+Converted description /// @description Stop it inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Alarm_2.gml
+Converted description /// @description Go inside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Alarm_1.gml
+Converted description /// @description Stop outside the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Alarm_0.gml
+Converted description /// @description Come out from the pip
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Other_4.gml
+Converted description /// @description DO NOT REMOV
+
+Converting GML script: ${project_dir}\objects\obj_piranhaplant_red_down\Draw_0.gml
+Converted description /// @description Draw Piranha Plan
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Create_0.gml
+Converted description /// @description Bloope
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Alarm_0.gml
+Converted description /// @description Allow blooper to swim up again
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Step_2.gml
+Converted description /// @description Animate bloope
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Step_0.gml
+Converted builtin - line 62: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 63: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Blooper logi
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Other_11.gml
+Converted description /// @description Custom blooper stomp even
+
+Converting GML script: ${project_dir}\objects\obj_blooper\Other_10.gml
+Converted description /// @description Custom blooper kill even
+
+Converting GML script: ${project_dir}\objects\obj_bulletbill\Create_0.gml
+Converted description /// @description Bullet Bill Generato
+
+Converting GML script: ${project_dir}\objects\obj_bulletbill\Alarm_0.gml
+Converted description /// @description Shoot a bulle
+
+Converting GML script: ${project_dir}\objects\obj_firebar\Create_0.gml
+Converted description /// @description Fireba
+
+Converting GML script: ${project_dir}\objects\obj_firebar\Alarm_1.gml
+Converted description /// @description Set up the angl
+
+Converting GML script: ${project_dir}\objects\obj_firebar\Alarm_0.gml
+Converted description /// @description Create fireba
+
+Converting GML script: ${project_dir}\objects\obj_firebar\Step_0.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Firebar logi
+
+Converting GML script: ${project_dir}\objects\obj_firebar\Draw_0.gml
+Converted description /// @description Draw me
+
+Converting GML script: ${project_dir}\objects\obj_firebar_fast\Create_0.gml
+Converted description /// @description Fast Fireba
+
+Converting GML script: ${project_dir}\objects\obj_firebar_fast\Alarm_1.gml
+Converted description /// @description Set up the angl
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Create_0.gml
+Converted description /// @description Bloope
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Alarm_3.gml
+Converted description /// @description Create cinder effec
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Alarm_2.gml
+Converted description /// @description Play sound and create a lava effect
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Alarm_1.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Make it jump
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Alarm_0.gml
+Converted description /// @description Stop i
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Step_0.gml
+Converted description /// @description Podoboo logi
+
+Converting GML script: ${project_dir}\objects\obj_lavabubble\Draw_0.gml
+Converted description /// @description Draw podobo
+
+Converting GML script: ${project_dir}\objects\obj_generator_platform\Create_0.gml
+Converted description /// @description A platform generato
+
+Converting GML script: ${project_dir}\objects\obj_generator_platform\Alarm_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Generate the platform if the generator is inside the view
+
+Converting GML script: ${project_dir}\objects\obj_platform\Step_2.gml
+Converted description /// @description Moving platform logi
+
+Converting GML script: ${project_dir}\objects\obj_platform_weight\Step_2.gml
+Converted description /// @description Weight platform logi
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Create_0.gml
+Converted description /// @description A balance platform, not suitable for plumbers over 80 kg
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Alarm_1.gml
+Converted description /// @description Create the rop
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Alarm_0.gml
+Converted description /// @description Create the right pulley platform
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Step_2.gml
+Converted description /// @description Pulley platform logi
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Other_11.gml
+Converted description /// @description Make both platforms fall
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance\Other_10.gml
+Converted description /// @description Slowdown both platform
+
+Converting GML script: ${project_dir}\objects\obj_platform_cloud\Create_0.gml
+Converted description /// @description A cloudy platfor
+
+Converting GML script: ${project_dir}\objects\obj_platform_cloud\Step_2.gml
+Converted description /// @description Cloud Platfor
+
+Converting GML script: ${project_dir}\objects\obj_coin\Create_0.gml
+Converted description /// @description A coin waiting to be collecte
+
+Converting GML script: ${project_dir}\objects\obj_coin\Collision_51477cc8-4027-4dce-8866-4336be31afd1.gml
+Converted description /// @description Collect the coi
+
+Converting GML script: ${project_dir}\objects\obj_coin\Collision_7f5b9025-4488-4c9b-98d2-b8ae2ad37638.gml
+Converted description /// @description Collect the coi
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Create_0.gml
+Converted description /// @description A trampolin
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Alarm_0.gml
+Converted description /// @description Allow the player to use the spring agai
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Step_0.gml
+Converted description /// @description Update solid positio
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Collision_05c62bb6-b9b0-4155-8043-425328c46e62.gml
+Converted description /// @description Make the player interact with the sprin
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Other_7.gml
+Converted description /// @description Restart up animatio
+
+Converting GML script: ${project_dir}\objects\obj_trampoline\Draw_0.gml
+Converted description /// @description Draw trampolin
+
+Converting GML script: ${project_dir}\objects\obj_trampoline_super\Other_7.gml
+Converted description /// @description Restart up animatio
+
+Converting GML script: ${project_dir}\objects\obj_current\Create_0.gml
+Converted description /// @description Strong curren
+
+Converting GML script: ${project_dir}\objects\obj_current\Alarm_0.gml
+Converted description /// @description Create bubbl
+
+Converting GML script: ${project_dir}\objects\obj_current\Step_0.gml
+Converted description /// @description Push the player to the middle if it is swimmin
+
+Converting GML script: ${project_dir}\objects\obj_lava\Collision_e85fd684-bbfb-4719-ad4d-4e2ace383e26.gml
+Converted description /// @description Insta-kill the playe
+
+Converting GML script: ${project_dir}\objects\obj_warptop\Step_0.gml
+Converted description /// @description Warp from the to
+
+Converting GML script: ${project_dir}\objects\obj_warpbottom\Step_0.gml
+Converted description /// @description Warp from the botto
+
+Converting GML script: ${project_dir}\objects\obj_warpleft\Step_0.gml
+Converted description /// @description Warp from the lef
+
+Converting GML script: ${project_dir}\objects\obj_warpright\Step_0.gml
+Converted description /// @description Warp from the righ
+
+Converting GML script: ${project_dir}\objects\obj_warproom\Create_0.gml
+Converted description /// @description Warps the player to a different roo
+
+Converting GML script: ${project_dir}\objects\obj_warproom\Collision_268ca12a-3750-48ec-bf4b-25683f048507.gml
+Converted description /// @description Warp the player to another destinatio
+
+Converting GML script: ${project_dir}\objects\obj_warpworld\Create_0.gml
+Converted description /// @description Warps the player to a different worl
+
+Converting GML script: ${project_dir}\objects\obj_warpworld\Collision_d0cf8ad4-dd5e-43f2-b7e9-b9ac259e3e66.gml
+Converted description /// @description Warp the player to another destinatio
+
+Converting GML script: ${project_dir}\objects\obj_warpworld\Draw_0.gml
+Converted description /// @description Shows destination worl
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Create_0.gml
+Converted description /// @description Player Paren
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_11.gml
+Converted description /// @description Handle powerup specific projectile
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_6.gml
+Converted description /// @description Create bubble effect when swimmin
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_5.gml
+Converted description /// @description Cycle between palette
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_3.gml
+Converted description /// @description Make the player able to climb agai
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_2.gml
+Converted description /// @description Make the player to turn on beanstalk
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_1.gml
+Converted description /// @description Make the player blink when invulnerabl
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Alarm_0.gml
+Converted description /// @description Make the player vulnerable to all hazard
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Step_0.gml
+Converted description /// @description Player Logi
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_25.gml
+Converted description /// @description Reset value
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_15.gml
+Converted description /// @description Player Behaviour (Swim
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_14.gml
+Converted description /// @description Player Behaviour (Climb
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_13.gml
+Converted description /// @description Player Behaviou
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_12.gml
+Converted description /// @description Toggle movement when crouched dow
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_11.gml
+Converted description /// @description Make the player bounc
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Other_10.gml
+Converted description /// @description Hurt the playe
+
+Converting GML script: ${project_dir}\objects\obj_playerparent\Draw_0.gml
+Converted description /// @description Draw the playe
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Create_0.gml
+Converted description /// @description The parent object for all enemie
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Alarm_10.gml
+Converted description /// @description Move towards the playe
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Step_0.gml
+Converted description /// @description Enemy logi
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_9d9728c9-e7e7-4881-a03d-b2533ddb8c7d.gml
+Converted description /// @description Collision with the player while invulnerabl
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_f047b19b-c344-4972-a65d-b3ee04580059.gml
+Converted description /// @description Collision with a firebal
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_9c4ed1ec-adea-4c38-8bf5-365d28344566.gml
+Converted description /// @description Collision with the player while invulnerabl
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_6252eab4-c928-4750-a79a-43dad1487b29.gml
+Converted description /// @description Collision with bumped brick
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_dccdbbbe-9acf-4f47-a9a2-3ed13414a18a.gml
+Converted description /// @description Collision with bumped block
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Collision_4e638fce-a3e1-4eac-aabe-88da4c92e4c0.gml
+Converted description /// @description Collision with the playe
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Other_16.gml
+Converted description /// @description Default flip scrip
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Other_15.gml
+Converted description /// @description Turn at ledges scrip
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Other_12.gml
+Converted description /// @description Turn at enemies scrip
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Other_11.gml
+Converted description /// @description Default enemy stomp scrip
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Other_10.gml
+Converted description /// @description Default enemy dead scrip
+
+Converting GML script: ${project_dir}\objects\obj_enemyparent\Draw_0.gml
+Converted description /// @description Draw the enem
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Step_0.gml
+Converted description /// @description Physics parent logi
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Collision_72c324bc-af40-4396-a6ef-6adb50c7c2c4.gml
+Converted description /// @description Bumped by a bloc
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Collision_0615df61-6789-4c89-a8c1-f54e44b90a67.gml
+Converted description /// @description Bumped by a bloc
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Other_14.gml
+Converted description /// @description Default floor / ceiling collisio
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Other_13.gml
+Converted description /// @description Default wall collisio
+
+Converting GML script: ${project_dir}\objects\obj_physicsparent\Draw_0.gml
+Converted description /// @description Draw the ite
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Create_0.gml
+Converted description /// @description Use this object for every item bloc
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Destroy_0.gml
+Converted description /// @description Destroy the solid mas
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Step_0.gml
+Converted description /// @description Update block movemen
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Other_12.gml
+Converted description /// @description Remove sprouting and active powerup
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Other_10.gml
+Converted description /// @description Perform block event
+
+Converting GML script: ${project_dir}\objects\obj_blockparent\Draw_0.gml
+Converted description /// @description Draw the bloc
+
+Converting GML script: ${project_dir}\objects\obj_platformparent\Step_2.gml
+Converted description /// @description Collision with the playe
+
+Converting GML script: ${project_dir}\objects\obj_platformparent\Step_0.gml
+Converted description /// @description Mario logi
+
+Converting GML script: ${project_dir}\objects\obj_mario\Create_0.gml
+Converted description /// @description It's a me, Mario
+
+Converting GML script: ${project_dir}\objects\obj_mario\Alarm_4.gml
+Converted description /// @description Handle player specific eyecand
+
+Converting GML script: ${project_dir}\objects\obj_mario\Step_2.gml
+Converted description /// @description Handle Mario's animatio
+
+Converting GML script: ${project_dir}\objects\obj_luigi\Create_0.gml
+Converted description /// @description It's a me, Luigi
+
+Converting GML script: ${project_dir}\objects\obj_luigi\Alarm_4.gml
+Converted description /// @description Handle player specific eyecand
+
+Converting GML script: ${project_dir}\objects\obj_luigi\Step_2.gml
+Converted description /// @description Handle Luigi's animatio
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Create_0.gml
+Converted description /// @description The player got a powerup, change him
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Destroy_0.gml
+Converted description /// @description Make the player visible and make stopped background layers move agai
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Alarm_0.gml
+Converted description /// @description Set up animation sequence and take up a screenshot
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Step_0.gml
+Converted description /// @description Freeze mary
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Other_7.gml
+Converted description /// @description If the animation has ended and no more loops are needed
+
+Converting GML script: ${project_dir}\objects\obj_player_transform\Draw_0.gml
+Converted description /// @description Draw Mari
+
+Converting GML script: ${project_dir}\objects\obj_player_dead\Create_0.gml
+Converted description /// @description An heroic death
+
+Converting GML script: ${project_dir}\objects\obj_player_dead\Alarm_1.gml
+Converted description /// @description Go to the level start scree
+
+Converting GML script: ${project_dir}\objects\obj_player_dead\Alarm_0.gml
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Move up if inside the vie
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Create_0.gml
+Converted description /// @description The player on the flagpol
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_5.gml
+Converted description /// @description Go to the level start scree
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_4.gml
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 36: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Create firework
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_3.gml
+Converted description /// @description Start moving agai
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_2.gml
+Converted description /// @description Return to the map after the music is done playing
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_1.gml
+Converted description /// @description Take points off the time, and add to the scor
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Alarm_0.gml
+Converted description /// @description Start walking to the goal castl
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Step_0.gml
+Converted description /// @description Player goal logi
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Collision_5f54b4f2-6b71-4893-b476-a271a5fe9205.gml
+Converted description /// @description When the player reaches the bottom of the flagpol
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Other_25.gml
+Converted description /// @description Begin countdown stat
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Other_24.gml
+Converted description /// @description Enter castl
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Other_23.gml
+Converted description /// @description Animat
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Other_5.gml
+Converted description /// @description Set up the next leve
+
+Converting GML script: ${project_dir}\objects\obj_player_goal\Draw_0.gml
+Converted description /// @description Draw the playe
+
+Converting GML script: ${project_dir}\objects\obj_player_axe\Create_0.gml
+Converted description /// @description The player after touching the ax
+
+Converting GML script: ${project_dir}\objects\obj_player_axe\Step_2.gml
+Converted description /// @description Player animatio
+
+Converting GML script: ${project_dir}\objects\obj_player_axe\Step_0.gml
+Converted description /// @description Player goal logi
+
+Converting GML script: ${project_dir}\objects\obj_player_axe\Draw_0.gml
+Converted description /// @description Draw the playe
+
+Converting GML script: ${project_dir}\objects\obj_shard\Create_0.gml
+Converted description /// @description Brick shar
+
+Converting GML script: ${project_dir}\objects\obj_shard\Step_2.gml
+Converted description /// @description Set gravity and motio
+
+Converting GML script: ${project_dir}\objects\obj_shard\Draw_0.gml
+Converted description /// @description Draw the bloc
+
+Converting GML script: ${project_dir}\objects\obj_blockcoin\Create_0.gml
+Converted description /// @description A coin that came out from a bloc
+
+Converting GML script: ${project_dir}\objects\obj_blockcoin\Alarm_0.gml
+Converted description /// @description Get points and destro
+
+Converting GML script: ${project_dir}\objects\obj_blockcoin\Other_7.gml
+Converted description /// @description Destroy if sparkl
+
+Converting GML script: ${project_dir}\objects\obj_blockbumper\Create_0.gml
+Converted description /// @description Destroy after a whil
+
+Converting GML script: ${project_dir}\objects\obj_blockbumper\Alarm_0.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_bowser_flame\Create_0.gml
+Converted description /// @description A flame breathed by bowse
+
+Converting GML script: ${project_dir}\objects\obj_bowser_flame\Alarm_0.gml
+Converted description /// @description Stop i
+
+Converting GML script: ${project_dir}\objects\obj_bowser_flame\Step_0.gml
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted description /// @description Destroy when outside the vie
+
+Converting GML script: ${project_dir}\objects\obj_bowser_flame\Collision_f996edc6-7277-42e3-80c7-27a74fcb9a56.gml
+Converted description /// @description Harm the playe
+
+Converting GML script: ${project_dir}\objects\obj_bowser_flame\Collision_c055b116-b61c-4346-8c4b-d3d840babc61.gml
+Converted description /// @description Harm the playe
+
+Converting GML script: ${project_dir}\objects\obj_enemy_dead\Create_0.gml
+Converted description /// @description An enemy that has been kille
+
+Converting GML script: ${project_dir}\objects\obj_enemy_dead\Alarm_0.gml
+Converted description /// @description Check sprit
+
+Converting GML script: ${project_dir}\objects\obj_enemy_dead\Step_0.gml
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Dead enemy logi
+
+Converting GML script: ${project_dir}\objects\obj_enemy_dead\Draw_0.gml
+Converted description /// @description Draw the bloc
+
+Converting GML script: ${project_dir}\objects\obj_enemy_stomped\Create_0.gml
+Converted description /// @description An enemy that has been kille
+
+Converting GML script: ${project_dir}\objects\obj_stomped\Create_0.gml
+Converted description /// @description A enemy turned into a pancak
+
+Converting GML script: ${project_dir}\objects\obj_stomped\Alarm_0.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_stomped\Collision_98000188-32e6-43d0-bd05-6bc09d224bd0.gml
+Converted description /// @description Stop it and then destro
+
+Converting GML script: ${project_dir}\objects\obj_stomped\Draw_0.gml
+Converted description /// @description Draw the pancak
+
+Converting GML script: ${project_dir}\objects\obj_shell\Create_0.gml
+Converted description /// @description Koopa Shel
+
+Converting GML script: ${project_dir}\objects\obj_shell\Alarm_1.gml
+Converted description /// @description Pop out from the shel
+
+Converting GML script: ${project_dir}\objects\obj_shell\Alarm_0.gml
+Converted description /// @description Change the fram
+
+Converting GML script: ${project_dir}\objects\obj_shell\Step_0.gml
+Converted builtin - line 47: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 48: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 78: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 48: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Koopa shell logi
+
+Converting GML script: ${project_dir}\objects\obj_shell\Collision_a945d8b4-dbe7-4843-a95b-f3541df1e4bf.gml
+Converted description /// @description Special player collision scrip
+
+Converting GML script: ${project_dir}\objects\obj_shell\Other_17.gml
+Converted description /// @description Slow down when fallin
+
+Converting GML script: ${project_dir}\objects\obj_shell\Other_16.gml
+Converted description /// @description Default enemy dead scrip
+
+Converting GML script: ${project_dir}\objects\obj_shell\Other_11.gml
+Converted description /// @description Turn into a new shel
+
+Converting GML script: ${project_dir}\objects\obj_shell\Other_7.gml
+Converted description /// @description Animate the objec
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Create_0.gml
+Converted description /// @description Lakit
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Destroy_0.gml
+Converted description /// @description Call another lakitu if not going awa
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Alarm_10.gml
+Converted builtin - line 3: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 4: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 4: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Begin movement if inside the vie
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Alarm_1.gml
+Converted description /// @description Toss an eg
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Alarm_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Throw a spin
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Step_0.gml
+Converted builtin - line 11: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 31: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 33: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted description /// @description Lakitu logi
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Collision_0f2566eb-1f73-44a3-a121-390a93307b80.gml
+Converted description /// @description Make lakitu go awa
+
+Converting GML script: ${project_dir}\objects\obj_lakitu2\Other_10.gml
+Converted description /// @description Defaults to stomp even
+
+Converting GML script: ${project_dir}\objects\obj_lakitu_egg\Create_0.gml
+Converted description /// @description Lakitu eg
+
+Converting GML script: ${project_dir}\objects\obj_lakitu_egg\Step_0.gml
+Converted description /// @description Lakitu egg logi
+
+Converting GML script: ${project_dir}\objects\obj_lakitu_egg\Other_10.gml
+Converted description /// @description Lakitu egg death even
+
+Converting GML script: ${project_dir}\objects\obj_hammer\Create_0.gml
+Converted description /// @description Hamme
+
+Converting GML script: ${project_dir}\objects\obj_hammer\Step_0.gml
+Converted description /// @description Hammer logi
+
+Converting GML script: ${project_dir}\objects\obj_hammer\Collision_9da56f10-351f-4628-90c7-f1d61b8e6478.gml
+Converted description /// @description Hurt the playe
+
+Converting GML script: ${project_dir}\objects\obj_redcheep\Create_0.gml
+Converted description /// @description Underwater Red Cheep-Chee
+
+Converting GML script: ${project_dir}\objects\obj_redcheep\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_redcheep\Step_0.gml
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted description /// @description Cheep-Cheep logi
+
+Converting GML script: ${project_dir}\objects\obj_redcheep\Other_10.gml
+Converted description /// @description Custom cheep cheep kill even
+
+Converting GML script: ${project_dir}\objects\obj_greencheep\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_greencheep\Step_0.gml
+Converted description /// @description Underwater Green Cheep-Cheep logi
+
+Converting GML script: ${project_dir}\objects\obj_generatorcheep\Create_0.gml
+Converted description /// @description Jumping Cheep-Chee
+
+Converting GML script: ${project_dir}\objects\obj_generatorcheep\Alarm_10.gml
+Converted description /// @description Starts movin
+
+Converting GML script: ${project_dir}\objects\obj_generatorcheep\Step_0.gml
+Converted builtin - line 21: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 22: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 21: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 22: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Jumping cheep-cheep logi
+
+Converting GML script: ${project_dir}\objects\obj_bullet\Create_0.gml
+Converted description /// @description Bullet bil
+
+Converting GML script: ${project_dir}\objects\obj_bullet\Step_0.gml
+Converted builtin - line 11: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 12: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 13: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 12: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 13: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Bullet bill logi
+
+Converting GML script: ${project_dir}\objects\obj_firebar_ball\Create_0.gml
+Converted description /// @description Fire from a fireba
+
+Converting GML script: ${project_dir}\objects\obj_firebar_ball\Step_0.gml
+Converted description /// @description Firebar fireball logi
+
+Converting GML script: ${project_dir}\objects\obj_firebar_ball\Collision_b0c97228-d84c-4415-ba8d-05bbaed3ee96.gml
+Converted description /// @description Hurt the playe
+
+Converting GML script: ${project_dir}\objects\obj_mushroom\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_mushroom\Collision_d3991a44-d560-43c2-be55-e4ffe104e99e.gml
+Converted description /// @description Bumped by a bloc
+
+Converting GML script: ${project_dir}\objects\obj_mushroom\Collision_9878180a-f044-45d2-b690-191810f94c2d.gml
+Converted description /// @description Turn into Super Mario/Luig
+
+Converting GML script: ${project_dir}\objects\obj_fireflower\Create_0.gml
+Converted description /// @description Fire Flowe
+
+Converting GML script: ${project_dir}\objects\obj_fireflower\Collision_da5dc51d-1521-4de9-bfb6-904fc3724e55.gml
+Converted description /// @description Turn into Super Mario/Luigi if small or into Fire Mario/Luigi if big
+
+Converting GML script: ${project_dir}\objects\obj_starman\Create_0.gml
+Converted description /// @description Starma
+
+Converting GML script: ${project_dir}\objects\obj_starman\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_starman\Step_0.gml
+Converted description /// @description Starman logi
+
+Converting GML script: ${project_dir}\objects\obj_starman\Collision_19a96639-372f-4443-b81e-6a79da0cd637.gml
+Converted description /// @description Give the player temporary invincibilit
+
+Converting GML script: ${project_dir}\objects\obj_1up\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_1up\Collision_48b7fa3c-66cb-442c-825f-31868f86afb6.gml
+Converted description /// @description Get a extra-lif
+
+Converting GML script: ${project_dir}\objects\obj_1up\Draw_0.gml
+Converted description /// @description Draw the 1u
+
+Converting GML script: ${project_dir}\objects\obj_poison\Alarm_10.gml
+Converted description /// @description Start movin
+
+Converting GML script: ${project_dir}\objects\obj_poison\Collision_7f594778-7316-4089-a269-769699f60e8a.gml
+Converted description /// @description Hurt the playe
+
+Converting GML script: ${project_dir}\objects\obj_powerupsprout\Create_0.gml
+Converted description /// @description An sprouting ite
+
+Converting GML script: ${project_dir}\objects\obj_powerupsprout\Alarm_0.gml
+Converted description /// @description Sprite chec
+
+Converting GML script: ${project_dir}\objects\obj_powerupsprout\Step_0.gml
+Converted description /// @description Item sprout logi
+
+Converting GML script: ${project_dir}\objects\obj_powerupsprout\Collision_3a3db78e-cdf7-46f9-8d14-0ee3a35dc51c.gml
+Converted description /// @description Collect the item if sproutin
+
+Converting GML script: ${project_dir}\objects\obj_powerupsprout\Draw_0.gml
+Converted description /// @description Draw ite
+
+Converting GML script: ${project_dir}\objects\obj_fireball\Create_0.gml
+Converted description /// @description Firebal
+
+Converting GML script: ${project_dir}\objects\obj_fireball\Step_0.gml
+Converted builtin - line 20: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 22: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Fireball logi
+
+Converting GML script: ${project_dir}\objects\obj_fireball\Other_10.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Create_0.gml
+Converted description /// @description The power of invincibility
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Destroy_0.gml
+Converted description /// @description Make the player vulnerable if it exist
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Alarm_2.gml
+Converted description /// @description Play invincibility musi
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Alarm_1.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Alarm_0.gml
+Converted description /// @description End invincibilit
+
+Converting GML script: ${project_dir}\objects\obj_invincibility\Step_0.gml
+Converted description /// @description Invincibility logi
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance_r\Create_0.gml
+Converted description /// @description A balance platform, not suitable for plumbers over 80 kg
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance_r\Alarm_1.gml
+Converted description /// @description Create the rop
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance_rope\Create_0.gml
+Converted description /// @description The rope needed to hang the pulley platform
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance_rope\Step_2.gml
+Converted description /// @description Rope logi
+
+Converting GML script: ${project_dir}\objects\obj_platform_balance_rope\Draw_0.gml
+Converted description /// @description Draw rop
+
+Converting GML script: ${project_dir}\objects\obj_beanstalk\Create_0.gml
+Converted description /// @description A climbable beanstal
+
+Converting GML script: ${project_dir}\objects\obj_beanstalk\Alarm_0.gml
+Converted description /// @description Create a beanstalk
+
+Converting GML script: ${project_dir}\objects\obj_beanstalk\Step_0.gml
+Converted description /// @description Beanstalk logi
+
+Converting GML script: ${project_dir}\objects\obj_beanstalk_b\Create_0.gml
+Converted description /// @description A yellow beanstalk vin
+
+Converting GML script: ${project_dir}\objects\obj_beanstalk_b\Step_0.gml
+Converted description /// @description Check if the beanstalk is stopped and stop if so
+
+Converting GML script: ${project_dir}\objects\obj_castle\Create_0.gml
+Converted description /// @description Fake castle backgroun
+
+Converting GML script: ${project_dir}\objects\obj_castle\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Draw castle backgroun
+
+Converting GML script: ${project_dir}\objects\obj_score\Create_0.gml
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description You got point
+
+Converting GML script: ${project_dir}\objects\obj_score\Alarm_0.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_score\Step_0.gml
+Converted builtin - line 4: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 13: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 14: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description Stay in vie
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_20.gml
+Converted description /// @description 1-U
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_19.gml
+Converted description /// @description 8000 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_18.gml
+Converted description /// @description 5000 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_17.gml
+Converted description /// @description 4000 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_16.gml
+Converted description /// @description 2000 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_15.gml
+Converted description /// @description 1000 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_14.gml
+Converted description /// @description 800 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_13.gml
+Converted description /// @description 500 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_12.gml
+Converted description /// @description 400 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_11.gml
+Converted description /// @description 200 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Other_10.gml
+Converted description /// @description 100 point
+
+Converting GML script: ${project_dir}\objects\obj_score\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted description /// @description Draw score tex
+
+Converting GML script: ${project_dir}\objects\obj_score_goal\Create_0.gml
+Converted description /// @description You got points by clearing a leve
+
+Converting GML script: ${project_dir}\objects\obj_score_goal\Step_0.gml
+Converted description /// @description Prevent the object from going too high on the flagpol
+
+Converting GML script: ${project_dir}\objects\obj_score_goal\Draw_0.gml
+Converted description /// @description Draw i
+
+Converting GML script: ${project_dir}\objects\obj_bubble\Create_0.gml
+Converted description /// @description Bubbl
+
+Converting GML script: ${project_dir}\objects\obj_bubble\Step_0.gml
+Converted description /// @description Destroy in contact with solid or when outside wate
+
+Converting GML script: ${project_dir}\objects\obj_leaf\Create_0.gml
+Converted description /// @description Lea
+
+Converting GML script: ${project_dir}\objects\obj_leaf\Step_0.gml
+Converted builtin - line 3: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 3: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Destroy if outside the vie
+
+Converting GML script: ${project_dir}\objects\obj_bubble_current\Create_0.gml
+Converted description /// @description Bubbl
+
+Converting GML script: ${project_dir}\objects\obj_bubble_current\Step_0.gml
+Converted builtin - line 17: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 17: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Destroy in contact with solid or when outside wate
+
+Converting GML script: ${project_dir}\objects\obj_rain\Create_0.gml
+Converted description /// @description Rain dro
+
+Converting GML script: ${project_dir}\objects\obj_rain\Step_0.gml
+Converted builtin - line 3: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 3: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Destroy if outside the vie
+
+Converting GML script: ${project_dir}\objects\obj_rain\Collision_d2539fa2-3df6-4217-a510-eae4586995d9.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_rain\Collision_a683a750-0d7b-4458-92bb-b59deaff05b9.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_smoke\Create_0.gml
+Converted description /// @description Smoke Effec
+
+Converting GML script: ${project_dir}\objects\obj_smoke\Other_7.gml
+Converted description /// @description Destro
+
+Converting GML script: ${project_dir}\objects\obj_smoke\Draw_0.gml
+Converted description /// @description Draw effec
+
+Converting GML script: ${project_dir}\objects\obj_audio_loop_sound\Create_0.gml
+Converted description /// @description Predefined variable
+
+Converting GML script: ${project_dir}\objects\obj_audio_loop_sound\Step_1.gml
+Converted description /// @description Loop the soun
+
+Converting GML script: ${project_dir}\objects\obj_hud\Create_0.gml
+Converted description /// @description HU
+
+Converting GML script: ${project_dir}\objects\obj_hud\Step_0.gml
+Converted description /// @description Update animatio
+
+Converting GML script: ${project_dir}\objects\obj_hud\Draw_0.gml
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 25: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 37: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 43: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 46: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 25: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 37: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 39: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 46: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Draw the HU
+
+Converting GML script: ${project_dir}\objects\obj_water_sf\Create_0.gml
+Converted builtin - line 3: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 4: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Underwater ripple effec
+
+Converting GML script: ${project_dir}\objects\obj_water_sf\Step_0.gml
+Converted builtin - line 6: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 7: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Update width / heigh
+
+Converting GML script: ${project_dir}\objects\obj_water_sf\Other_10.gml
+Converted builtin - line 3: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 4: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Force reset displa
+
+Converting GML script: ${project_dir}\objects\obj_water_sf\Draw_0.gml
+Converted builtin - line 23: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 6: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 6: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted description /// @description Draw underwater surfac
+
+Converting GML script: ${project_dir}\objects\obj_timeup\Create_0.gml
+Converted description /// @description Starts the leve
+
+Converting GML script: ${project_dir}\objects\obj_timeup\Alarm_0.gml
+Converted description /// @description Go to level start scree
+
+Converting GML script: ${project_dir}\objects\obj_timeup\Draw_0.gml
+Converted builtin - line 7: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 10: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 13: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 16: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 7: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 10: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 13: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 16: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 7: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 10: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 13: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 16: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted description /// @description Draw logo, time up and character stuf
+
+Converting GML script: ${project_dir}\objects\obj_timeup\KeyPress_16.gml
+Converted description /// @description Force level star
+
+Converting GML script: ${project_dir}\objects\obj_flag\Create_0.gml
+Converted description /// @description Flagpole fla
+
+Converting GML script: ${project_dir}\objects\obj_flag\Collision_5f4b4159-082f-44f2-b834-ea9a6f8526e5.gml
+Converted description /// @description When the flag reaches the bottom of the flagpol
+
+Converting GML script: ${project_dir}\objects\obj_flagc\Create_0.gml
+Converted description /// @description Castle fla
+
+Converting GML script: ${project_dir}\objects\obj_flagc\Alarm_0.gml
+Converted description /// @description Stop moving and go to ma
+
+Converting GML script: ${project_dir}\objects\obj_reset\Alarm_0.gml
+Converted description /// @description Create same item when maze restart
+
+Converting GML script: ${project_dir}\objects\obj_skipper\Create_0.gml
+Converted description /// @description Skippe
+
+Converting GML script: ${project_dir}\objects\obj_skipper\Alarm_1.gml
+Converted description /// @description Go to the next roo
+
+Converting GML script: ${project_dir}\objects\obj_skipper\Alarm_0.gml
+Converted description /// @description Play 'Coin' sound and animat
+
+Converting GML script: ${project_dir}\objects\obj_skipper\Other_7.gml
+Converted description /// @description Stop animatio
+
+Converting GML script: ${project_dir}\objects\obj_skipper\Draw_0.gml
+Converted description /// @description Show coin and disclaime
+
+Converting GML script: ${project_dir}\objects\obj_levelstart\Create_0.gml
+Converted description /// @description Starts the leve
+
+Converting GML script: ${project_dir}\objects\obj_levelstart\Alarm_1.gml
+Converted description /// @description Reset time and set the level preview fram
+
+Converting GML script: ${project_dir}\objects\obj_levelstart\Alarm_0.gml
+Converted description /// @description Go to the current leve
+
+Converting GML script: ${project_dir}\objects\obj_levelstart\Draw_0.gml
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 27: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 27: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description Draw current world and playable characte
+Converted string - line 24: '"' -> "\""
+
+Converting GML script: ${project_dir}\objects\obj_levelstart\KeyPress_16.gml
+Converted description /// @description Force level star
+
+Converting GML script: instance inst_36AE56FD creation code
+Converted description /// @description Set the flagpole frame and next leve
+
+Converting GML script: instance inst_E6935508 creation code
+Converted description /// @description Remove if hard mode is activ
+
+Converting GML script: ${project_dir}\rooms\rm_w1_1_Bonus\RoomCreationCode.gml
+Converted builtin - line 5: background_index[0] = bgr_bonus_mario -> __background_set( e__BG.Index, 0, bgr_bonus_mario )
+Converted builtin - line 7: background_index[0] = bgr_bonus_luigi -> __background_set( e__BG.Index, 0, bgr_bonus_luigi )
+Converted description /// @description Set skin and background based on playe
+
+Converting GML script: instance inst_0855F077 creation code
+Converted description /// @description Generate smaller platforms if hard mode is activ
+
+Converting GML script: instance inst_6D752A62 creation code
+Converted description /// @description Generate smaller platforms if hard mode is activ
+
+Converting GML script: instance inst_47C6763B creation code
+Converted description /// @description Remove if hard mode is activ
+
+Converting GML script: ${project_dir}\rooms\rm_w1_2_Bonus\RoomCreationCode.gml
+Converted builtin - line 5: background_index[0] = bgr_bonus_mario -> __background_set( e__BG.Index, 0, bgr_bonus_mario )
+Converted builtin - line 7: background_index[0] = bgr_bonus_luigi -> __background_set( e__BG.Index, 0, bgr_bonus_luigi )
+Converted description /// @description Set skin and background based on playe
+
+Converting GML script: instance inst_E8D8D615 creation code
+Converted description /// @description Change into a shorter platform if hard mode is activ
+
+Converting GML script: instance inst_37E39B6A creation code
+Converted description /// @description Remove if hard mode is activ
+
+Converting GML script: instance inst_2F499797 creation code
+Converted description /// @description Change into a shorter platform if hard mode is activ
+
+Converting GML script: instance inst_59F311A0 creation code
+Converted description /// @description Change into a shorter platform if hard mode is activ
+
+Converting GML script: instance inst_09D2DDBE creation code
+Converted description /// @description Change into a shorter platform if hard mode is activ
+
+Converting GML script: instance inst_51564A95 creation code
+Converted description /// @description Destroy if hard mode is not activ
+
+Converting GML script: instance inst_85C87BA0 creation code
+Converted description /// @description Remove if hard mode is activ
+
+Converting GML script: ${project_dir}\rooms\rm_w2_1_Bonus2\RoomCreationCode.gml
+Converted builtin - line 5: background_index[0] = bgr_bonus_mario -> __background_set( e__BG.Index, 0, bgr_bonus_mario )
+Converted builtin - line 7: background_index[0] = bgr_bonus_luigi -> __background_set( e__BG.Index, 0, bgr_bonus_luigi )
+Converted description /// @description Set skin and background based on playe
+
+Converting GML script: instance inst_FEF79989 creation code
+Converted description /// @description Remove if hard mode is activ
+
+Converting GML script: ${project_dir}\rooms\rm_w2_2_Goal\RoomCreationCode.gml
+Converted builtin - line 1: background_blend[2] = make_color_rgb(255, 229, 119) -> __background_set( e__BG.Blend, 2, make_color_rgb(255, 229, 119) )
+
+Converting GML script: ${project_dir}\rooms\rm_w2_3\RoomCreationCode.gml
+Converted builtin - line 1: background_blend[2] = make_color_rgb(255, 229, 119) -> __background_set( e__BG.Blend, 2, make_color_rgb(255, 229, 119) )
+
+Converting GML script: instance inst_ABE45937 creation code
+Converted description /// @description Remove if hard mode is activ
+
+Missing audiogroup for sound: 'bgm_cutscene' - setting to default audio group
+Missing audiogroup for sound: 'bgm_invincible' - setting to default audio group
+Missing audiogroup for sound: 'bgm_playerdown' - setting to default audio group
+Missing audiogroup for sound: 'bgm_courseclear' - setting to default audio group
+Missing audiogroup for sound: 'bgm_worldclear' - setting to default audio group
+Missing audiogroup for sound: 'bgm_title' - setting to default audio group
+Missing audiogroup for sound: 'bgm_title_tll' - setting to default audio group
+Missing audiogroup for sound: 'bgm_overworld' - setting to default audio group
+Missing audiogroup for sound: 'bgm_underground' - setting to default audio group
+Missing audiogroup for sound: 'bgm_castle' - setting to default audio group
+Missing audiogroup for sound: 'bgm_swimming' - setting to default audio group
+Missing audiogroup for sound: 'bgm_bonus' - setting to default audio group
+Missing audiogroup for sound: 'bgm_bowser' - setting to default audio group
+Missing audiogroup for sound: 'bgm_bowser_final' - setting to default audio group
+Missing audiogroup for sound: 'snd_1up' - setting to default audio group
+Missing audiogroup for sound: 'snd_beanstalk' - setting to default audio group
+Missing audiogroup for sound: 'snd_bowser_flame' - setting to default audio group
+Missing audiogroup for sound: 'snd_bowser_lava' - setting to default audio group
+Missing audiogroup for sound: 'snd_break' - setting to default audio group
+Missing audiogroup for sound: 'snd_bridge' - setting to default audio group
+Missing audiogroup for sound: 'snd_bump' - setting to default audio group
+Missing audiogroup for sound: 'snd_cannon' - setting to default audio group
+Missing audiogroup for sound: 'snd_coin' - setting to default audio group
+Missing audiogroup for sound: 'snd_correct' - setting to default audio group
+Missing audiogroup for sound: 'snd_count' - setting to default audio group
+Missing audiogroup for sound: 'snd_countend' - setting to default audio group
+Missing audiogroup for sound: 'snd_fireball' - setting to default audio group
+Missing audiogroup for sound: 'snd_firework' - setting to default audio group
+Missing audiogroup for sound: 'snd_flagpole' - setting to default audio group
+Missing audiogroup for sound: 'snd_flame' - setting to default audio group
+Missing audiogroup for sound: 'snd_hammer' - setting to default audio group
+Missing audiogroup for sound: 'snd_hurry' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick2' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick3' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick4' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick5' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick6' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick7' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick8' - setting to default audio group
+Missing audiogroup for sound: 'snd_lava' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup' - setting to default audio group
+Missing audiogroup for sound: 'snd_skid' - setting to default audio group
+Missing audiogroup for sound: 'snd_sprout' - setting to default audio group
+Missing audiogroup for sound: 'snd_stomp' - setting to default audio group
+Missing audiogroup for sound: 'snd_swim' - setting to default audio group
+Missing audiogroup for sound: 'snd_trampoline' - setting to default audio group
+Missing audiogroup for sound: 'snd_warp' - setting to default audio group
+Missing audiogroup for sound: 'snd_wind' - setting to default audio group
+Missing audiogroup for sound: 'snd_wrong' - setting to default audio group
+Imported layer depths for room(s) 'rm_w1_1, rm_w1_1_Bonus, rm_w1_2_Main, rm_w1_2_Goal, rm_w1_2_Bonus, rm_w1_3, rm_w1_4, rm_w2_1, rm_w2_1_Bonus1, rm_w2_1_Bonus2, rm_w2_2_Main, rm_w2_2_Goal, rm_w2_3, rm_w2_4, rm_w4_4, rm_d1_1' were not adequately spaced. Unless updated this will have undefined results in game.
+Game speed set to 60
+Added compatibility script 'background/background_assign.gml'
+Added compatibility script 'background/background_get_width.gml'
+Added compatibility script 'background/draw_background.gml'
+Added compatibility script 'background/draw_background_ext.gml'
+Added compatibility script 'background/draw_background_tiled_ext.gml'
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'd3d/d3d_transform_set_identity.gml'
+Added compatibility script 'd3d/d3d_transform_set_translation.gml'
+Added compatibility script 'draw/draw_enable_alphablend.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'texture/texture_set_interpolation_ext.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

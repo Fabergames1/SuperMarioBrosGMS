@@ -1,0 +1,1 @@
+global.skin = 2;

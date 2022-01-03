@@ -1,0 +1,1 @@
+myOBJ = obj_piranhaplant;
